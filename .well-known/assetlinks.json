@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "ajaib.co.dev",
+    "sha256_cert_fingerprints":
+    ["BF:C8:72:6F:FE:44:7A:84:91:40:41:9A:1C:69:40:C7:2C:D2:A5:95:2F:2F:F8:DA:0D:AC:8A:7B:F3:A4:21:3F"]
+  }
+}]
